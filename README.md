@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Website repository! This project is a full-stack real estate website developed in JavaScript. It includes both the frontend and backend components to provide a comprehensive real estate browsing experience.
 
+![Real Estate](web.png)
+
 ### Technologies Used
 JavaScript
 Node.js
